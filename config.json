@@ -11,7 +11,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"3807e6a4-cfa9-4270-8b00-36f39b42b30b",
                       "flow":"xtls-rprx-direct"
                   }
               ],
@@ -49,7 +49,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "id":"3807e6a4-cfa9-4270-8b00-36f39b42b30b"
                   }
               ],
               "decryption":"none"
@@ -66,7 +66,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"3807e6a4-cfa9-4270-8b00-36f39b42b30b",
                       "level":0,
                       "email":"argo@xray"
                   }
@@ -97,7 +97,7 @@
           "settings":{
               "clients":[
                   {
-                      "id":"de04add9-5c68-8bab-950c-08cd5320df18",
+                      "id":"3807e6a4-cfa9-4270-8b00-36f39b42b30b",
                       "alterId":0
                   }
               ]
@@ -125,7 +125,7 @@
           "settings":{
               "clients":[
                   {
-                      "password":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "password":"3807e6a4-cfa9-4270-8b00-36f39b42b30b"
                   }
               ]
           },
@@ -154,7 +154,7 @@
               "clients":[
                   {
                       "method":"chacha20-ietf-poly1305",
-                      "password":"de04add9-5c68-8bab-950c-08cd5320df18"
+                      "password":"3807e6a4-cfa9-4270-8b00-36f39b42b30b"
                   }
               ],
               "decryption":"none"
